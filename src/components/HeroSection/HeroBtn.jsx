@@ -23,8 +23,9 @@ const HeroBtn = () => {
         GitHub
       </a>
       <a
-        href="/resume.pdf"
-        download
+        href="https://drive.google.com/file/d/1bGfn0GWa9V8LF4_qKUdkspA_mvtkNzuH/view?usp=sharing"
+        target="_blank"
+        rel="noopener noreferrer"
         className="flex items-center gap-2 px-6 py-2 rounded-2xl text-white bg-orange hover:bg-orange/80 transition-all duration-300"
       >
         <HiOutlineDocumentDownload className="text-lg" />
