@@ -5,9 +5,17 @@ import { motion } from "framer-motion";
 import { fadeIn } from "../../framermotion/variants";
 const projects = [
   {
+    name: "Kapda Pasal",
+    year: "August 2025",
+    align: "right",
+    image: "/images/kapda.jpg",
+    link: "https://kapdaghar.onrender.com/",
+    gitLink: "https://github.com/SwaroopDangal/KapdaGhar",
+  },
+  {
     name: "Reademy",
     year: "July 2025",
-    align: "right",
+    align: "left",
     image: "/images/reademy.jpg",
     link: "https://reademy.onrender.com/",
     gitLink: "https://github.com/SwaroopDangal/Reademy",
@@ -15,7 +23,7 @@ const projects = [
   {
     name: "Musify",
     year: "June 2025",
-    align: "left",
+    align: "right",
     image: "/images/musify.jpg",
     link: "#",
     gitLink: "https://github.com/SwaroopDangal/musify",
@@ -23,7 +31,7 @@ const projects = [
   {
     name: "Chatify",
     year: "May 2025",
-    align: "right",
+    align: "left",
     image: "/images/chatify.jpg",
     link: "https://chatify-vn65.onrender.com/",
     gitLink: "https://github.com/SwaroopDangal/mern-chat-app",
