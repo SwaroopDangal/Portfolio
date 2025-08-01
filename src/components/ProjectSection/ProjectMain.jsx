@@ -8,7 +8,7 @@ const projects = [
     name: "Kapda Pasal",
     year: "August 2025",
     align: "right",
-    image: "/images/kapda.jpg",
+    image: "/images/ghar.jpeg",
     link: "https://kapdaghar.onrender.com/",
     gitLink: "https://github.com/SwaroopDangal/KapdaGhar",
   },
